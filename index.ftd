@@ -1,7 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: renymathew.github.io/fastnportfolio/lib
-
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-3
 -- lib.page:
 
 -- lib.header:
@@ -24,4 +24,15 @@ cover: $assets.files.assets.20230905_172438.jpg
 Hello, I'm Reny Mathew, and I'm delighted to introduce myself to you. I believe in the power of effective communication and collaboration to achieve our goals and make meaningful connections.
 
 
+
+-- contact-3.contact-3: Send a Message
+address: Gec Palakkad
+email: renymathew03@gmail.com
+phone: 22558899
+facebook: $assets.files.images.Footer.facebook.svg
+twitter: $assets.files.images.Footer.twitter.svg
+instagram: $assets.files.images.Footer.instagram.svg
+linkedin: $assets.files.images.Footer.linkedin.svg
+cta-button: Button
+cta-link: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
 -- end: lib.page
